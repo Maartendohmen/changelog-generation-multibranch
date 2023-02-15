@@ -66,9 +66,16 @@ public class Main {
         System.out.println("finished feature 10");
     }
 
+
     private void feature12() {
         System.out.println("added feature 12 initial");
         System.out.println("added feature 12 expension");
         System.out.println("finished feature 12");
+    }
+    
+    private void feature11() {
+        System.out.println("added feature 11 initial");
+        System.out.println("added feature 11 expension");
+        System.out.println("finished feature 11");
     }
 }
