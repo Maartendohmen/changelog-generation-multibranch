@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Release 0.0.2");
+        System.out.println("Release 0.0.3");
     }
 
     private void feature1() {
@@ -46,6 +46,7 @@ public class Main {
         System.out.println("added feature 7 initial");
         System.out.println("added feature 7 expension");
         System.out.println("finished feature 7");
+    }
 
     private void feature8() {
         System.out.println("added feature 8 initial");
