@@ -11,4 +11,10 @@ public class Main {
         System.out.println("moved feature 1");
         System.out.println("completed feature 1");
     }
+
+    private void feature2() {
+        System.out.println("added feature 2 initial");
+        System.out.println("added feature 2 expension");
+        System.out.println("finished feature 2");
+    }
 }
