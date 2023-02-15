@@ -21,6 +21,6 @@ public class Main {
     private void feature4() {
         System.out.println("added feature 4 initial");
         System.out.println("added feature 4 expension");
-        System.out.println("finished feature 2");
+        System.out.println("finished feature 4");
     }
 }
