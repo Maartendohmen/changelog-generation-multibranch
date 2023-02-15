@@ -56,5 +56,6 @@ public class Main {
 
     private void feature9() {
         System.out.println("added feature 9 initial");
+        System.out.println("added feature 9 expension");
     }
 }
