@@ -23,4 +23,22 @@ public class Main {
         System.out.println("added feature 3 expension");
         System.out.println("finished feature 3");
     }
+
+    private void feature4() {
+        System.out.println("added feature 4 initial");
+        System.out.println("added feature 4 expension");
+        System.out.println("finished feature 4");
+    }
+
+    private void feature5() {
+        System.out.println("added feature 5 initial");
+        System.out.println("added feature 5 expension");
+        System.out.println("finished feature 5");
+    }
+
+    private void feature6() {
+        System.out.println("added feature 6 initial");
+        System.out.println("added feature 6 expension");
+        System.out.println("finished feature 6");
+    }
 }
