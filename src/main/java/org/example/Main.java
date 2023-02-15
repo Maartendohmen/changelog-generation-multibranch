@@ -44,5 +44,6 @@ public class Main {
 
     private void feature7() {
         System.out.println("added feature 7 initial");
+        System.out.println("added feature 7 expension");
     }
 }
