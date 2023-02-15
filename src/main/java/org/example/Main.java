@@ -9,5 +9,6 @@ public class Main {
         System.out.println("added feature 1 initial");
         System.out.println("added feature 1 expension");
         System.out.println("moved feature 1");
+        System.out.println("completed feature 1");
     }
 }
