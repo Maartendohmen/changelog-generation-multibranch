@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("Release 0.0.1");
     }
 
     private void feature1() {
