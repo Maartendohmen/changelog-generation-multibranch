@@ -17,4 +17,10 @@ public class Main {
         System.out.println("added feature 2 expension");
         System.out.println("finished feature 2");
     }
+
+    private void feature4() {
+        System.out.println("added feature 4 initial");
+        System.out.println("added feature 2 expension");
+        System.out.println("finished feature 2");
+    }
 }
