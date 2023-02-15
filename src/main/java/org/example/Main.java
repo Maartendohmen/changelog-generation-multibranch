@@ -6,6 +6,7 @@ public class Main {
     }
 
     private void feature2() {
-
+        System.out.println("added feature 2 initial");
+        System.out.println("added feature 2 expension");
     }
 }
