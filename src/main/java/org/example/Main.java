@@ -53,4 +53,8 @@ public class Main {
         System.out.println("added feature 8 expension");
         System.out.println("finished feature 8");
     }
+
+    private void feature9() {
+        System.out.println("added feature 9 initial");
+    }
 }
