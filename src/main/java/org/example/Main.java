@@ -2,6 +2,6 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Master branch created");
+        System.out.println("added feature 1 initial");
     }
 }
